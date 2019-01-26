@@ -1,0 +1,42 @@
+
+#liste{
+    padding-left: 58%;
+}body{
+    background-color :rgb(219, 216, 216);
+    
+}
+.mel{
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+#p1 {
+margin-left: 100px;
+height: 550px;
+display: inline-block;
+border-width:2px;
+border-style:solid ;
+border-color:black;
+background-color: white;
+}
+#les2 {
+display:inline;
+font-style: oblique;
+font-size: 20px;
+color:rgb(17, 17, 80);
+
+}
+#input{
+    height: 45px;
+    width: 600px;
+}
+#msg {
+   height: 130px;
+   width: 600px;
+}
+#sub{
+   width: 600px;
+   height: 50px;
+}

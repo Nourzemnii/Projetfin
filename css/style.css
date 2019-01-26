@@ -1,0 +1,85 @@
+
+#liste{
+    padding-left: 58%;
+}
+#BL{
+    color: black;
+}
+#body{
+    background-color:rgb(182, 211, 243);
+}
+ #fin{
+    margin-left: 110px;
+    font-style: oblique ;
+    font-family: "Helvetica Neue";
+width: 1094px;
+    color: black;
+    font-size: 40px;
+}
+.paragraph{
+    
+    width: 300px;
+color:black;
+font-weight: bold;
+margin-left: 200px;
+}
+#p0, .pt {
+    margin-left: 110px;
+    font-style: oblique ;
+    font-family: "Helvetica Neue";
+font-size: 20px;
+width: 1094px;
+}
+
+.tit1{
+    font-size: 50px;
+    font-style: italic;
+    background-color: white;
+    padding-left: 30%;
+    
+}
+#im{
+    width: 280px;
+        height: 200px;
+    border-color: black;
+}
+.bloc1, .bloc2 {
+    display: inline-block;
+    background-color: white;
+    
+}
+.bloc1{
+    margin-left: 105px;
+width: 1134px;
+}
+.bloc2{
+    margin-left: 105px;
+
+}
+
+.parag{
+   padding-left: 20px;
+
+
+
+}
+#msg {
+   height: 100px;
+   width: 650px;
+}
+#sub{
+   width: 650px;
+   height: 30px;
+}
+#cont1{
+    background-color: white;
+    width: 1133px;
+
+margin-left: 105px;
+}
+#cont2{
+    background-color: white;
+    width: 1132px;
+margin-left: 105px;
+
+}
